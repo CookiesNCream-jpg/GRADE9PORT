@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<hmtl>
+<head><title> E-Port </title></head>
+<style>
+
+body {
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-image: url("https://cdnb.artstation.com/p/assets/images/images/068/594/879/large/ninjuras-screenshot-2023-10-24-215149.jpg?1698199723");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
+}
+
+.nav {
+  border: 5px outset DarkBlue;
+  background-color: LightBlue; 
+}
+
+px {
+  font-size: 30px;
+
+}
+</style>
+<nav>
+
+<div class="nav"> 
+<px align="center" size="8"> <b> 1st Quarter Portfolio </b> </px>
+<nav  align="right">
+<table>
+<tr>
+<td> <a href="/">Home</a> </td> <br>
+<td> <a href="/">As</a> </td><br> 
+<td> <a href="mailto:quinnkellysuhay14@gmail.com"> Feedback </a></td> <br>
+</tr>
+</table>
+</nav>
+</div>
+
+<p font size="6"> <b> Activities </b> </font> 
+<ul type="circle">
+<li> <font size="5"> Mapeh Glass Painting</font> </li>
+<img src="Mapeh.jfif" alt="My groupmates Mapeh Glass Paiting Activity" width="100"> My groupmates Mapeh Glass Paiting Activity containing a Dove and a cross to symbolize Peace, purity, and the Holy Spirit and our lord and savior sacrifice for us
+</p>
+</ul>
+
+<p> <font size="6"> ICT Lesson </font> </p>
+
+<ol>
+<li"> <img src="Lesson1pic.png" alt="Lesson 1 Page" width="500" > <img src="Lesson1txt.png" alt="Lesson 1 code" width="500"> </li>
+<li > <img src="Lesson2p.png" alt="Lesson 2 List" width="500"> <img src="Lesson2T.png" alt="Lesson 2 code" width="500" >  </li>
+<li > <img src= > <img src= > </li>
+<li> <img src= >  </li>
+<li> <img src="lesson5.png" alt="Hyperlink page(lesson5)" width="1000">  </li>
+
+</ol>
+</body
+</html>

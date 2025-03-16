@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head><title>E-Portfolio ICT</title></head>
+<body bgcolor="#D1FFBD">
+<table align="center" border="1" height="150" bgcolor="white" width="100%">
+<tr align="middle"><td align="middle" width="300">
+<h1 style="font-size:70;">E-Portfolio ICT<br> 1st Quarter</h1>
+</td></tr>
+</table>
+<table border="0" align="center" cellspacing="100">
+<tr> <td> <a href="about me.html"><img src="ABOUT ME.jpeg" height="300" width=300" alt="placeholder"> </td>
+<td rowspan="2"> <p align="center" style="font-size:50;"> 
+CHAT
+<br>
+this page  is where you <br> can learn about
+<br>
+me and see 
+<br>
+what I did in ICT during 
+<br>
+the first quarter! </p></td>
+<td> <a href="activities.html"><img src="activities.jpeg" height="300" width=300" alt="placeholder">
+</tr> 
+<tr> 
+<td>
+<a href="quizzes.html"><img src="quizzes.jpeg" height="300" width=300" alt="placeholder">
+</td>
+<td>
+<a href="reflection.html">
+<img src="reflection.png" height="300" width=300" alt="placeholder">
+</body>
+</html>

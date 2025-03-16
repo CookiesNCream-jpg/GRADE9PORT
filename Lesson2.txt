@@ -1,0 +1,17 @@
+<html>
+<body>
+<h1 align="center"> <b> Lesson 2 </b> </h1>
+<ol>
+<li> Ordered List </li>
+</ol
+
+<ul>
+<li> Unordered list </li>
+<ul>
+
+<dl>
+<li> Dictionary/Glossary List </li>
+</dl>
+
+</body>
+</html>
